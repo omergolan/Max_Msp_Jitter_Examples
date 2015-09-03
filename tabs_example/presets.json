@@ -1,0 +1,64 @@
+{
+	"pattrstorage" : 	{
+		"name" : "presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"displayOptions::Resolution" : [ 0 ],
+					"displayOptions::preview" : [ 4 ],
+					"inits::content_path" : [ "C:/lubit/studioF_final/" ],
+					"presets_GUI::BGcolor" : [ 0.0, 0.0, 0.0, 1.0, 0.0, 0.617977, 0.0 ],
+					"presets_GUI::X" : [ 0.0 ],
+					"presets_GUI::Y" : [ 0.0 ],
+					"presets_GUI::block_sensitive_controls" : [ 1 ],
+					"presets_GUI::click_move" : [ 0.075 ],
+					"presets_GUI::click_timelapse" : [ 1000 ],
+					"presets_GUI::fade_time[1]" : [ 50 ],
+					"presets_GUI::filtre" : [ 0.01 ],
+					"presets_GUI::force_selection" : [ 1 ],
+					"presets_GUI::friction" : [ 0.82 ],
+					"presets_GUI::max_thresh" : [ 1.0 ],
+					"presets_GUI::mean" : [ 4 ],
+					"presets_GUI::min_thresh" : [ 0.01 ],
+					"presets_GUI::sXY" : [ 1.0 ],
+					"presets_GUI::sXY[1]" : [ 1.0 ],
+					"presets_GUI::scale_from" : [ 0.005 ],
+					"presets_GUI::scale_to" : [ 0.1 ],
+					"presets_GUI::show_framerate" : [ 0 ],
+					"presets_GUI::show_pointer" : [ 0 ],
+					"label::shadow::Arrows_alpha" : [ 0.84 ],
+					"label::shadow[1]::Arrows_alpha" : [ 1.0 ],
+					"loader::loading_delay" : [ 1.0 ],
+					"loader::loading_size" : [ 0.22 ],
+					"loader::loading_time" : [ 1.0 ],
+					"loader::loading_width" : [ 0.54 ],
+					"loader::loading_width[1]" : [ 0.0 ],
+					"sound::Volume" : [ 123 ],
+					"label[1]::fade_color" : [ 1 ],
+					"label[1]::fade_time" : [ 20 ],
+					"icons::icon_gaus_size" : [ 0.0 ],
+					"icons::icon_gaus_x" : [ 0.0 ],
+					"icons::icon_gaus_y" : [ 0.0 ],
+					"icons::icon_pos_x" : [ 0.0 ],
+					"icons::icon_pos_y" : [ -0.51 ],
+					"icons::icon_proportion" : [ 1.0 ],
+					"icons::icon_separation" : [ 0.52 ],
+					"icons::icon_size" : [ 0.246 ],
+					"icons::icons_number" : [ 1 ],
+					"slider::slider_movement" : [ -0.05 ],
+					"slider::slider_scale" : [ 1.0 ],
+					"slider::slider_time" : [ 40.0 ],
+					"slider::slider_x" : [ 0.0 ],
+					"slider::slider_y" : [ 10.0 ],
+					"slider::label_timer" : [ 20.0 ],
+					"content::content_timer" : [ 5.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

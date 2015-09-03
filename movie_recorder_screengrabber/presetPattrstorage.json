@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "presetPattrstorage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"flonum" : [ 0.0 ],
+					"number" : [ 182 ],
+					"number[1]" : [ 0 ],
+					"number[2]" : [ 30 ],
+					"number[3]" : [ 462 ],
+					"number[4]" : [ 840 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 1 ],
+					"windowposition" : [ 0, 804 ],
+					"windowborder" : [ 0 ],
+					"desktopdim" : [ 900, 512 ],
+					"recorddim" : [ 900, 512 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

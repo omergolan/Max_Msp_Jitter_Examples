@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "setting",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"windowsize" : [ 725, 240 ],
+					"windowpos" : [ 74, 55 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"windowsize" : [ 1462, 240 ],
+					"windowpos" : [ 232, 898 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

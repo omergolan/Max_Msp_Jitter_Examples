@@ -1,0 +1,60 @@
+{
+	"pattrstorage" : 	{
+		"name" : "presets_storage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"u425000766" : [  ],
+					"displayOptions::Resolution" : [ 0 ],
+					"displayOptions::preview" : [ 4 ],
+					"posMouse::endlessLOOP::shadow::Arrows_ScaleXY" : [ 0.09 ],
+					"posMouse::endlessLOOP::shadow::Arrows_WidePosition" : [ 1.2 ],
+					"posMouse::endlessLOOP::shadow::Arrows_alpha" : [ 0.84 ],
+					"posMouse::endlessLOOP::shadow::Arrows_animDistance" : [ -0.04 ],
+					"posMouse::endlessLOOP::shadow::Arrows_animSpeed" : [ 81 ],
+					"posMouse::endlessLOOP::shadow::Arrows_posY" : [ -0.76 ],
+					"inits::path" : [ 2 ],
+					"presets::BGcolor" : [ 0.0, 0.0, 0.0, 1.0, 0.0, 0.117978, 0.0 ],
+					"presets::X" : [ 0.0 ],
+					"presets::Y" : [ 0.13 ],
+					"presets::block_sensitive_controls" : [ 1 ],
+					"presets::click_move" : [ 0.0 ],
+					"presets::click_timelapse" : [ 1000 ],
+					"presets::fade_time" : [ 8 ],
+					"presets::filtre" : [ 0.01 ],
+					"presets::force_selection" : [ 1 ],
+					"presets::friction" : [ 0.8 ],
+					"presets::icon_gaus_size" : [ 0.08 ],
+					"presets::icon_gaus_x" : [ 0.23 ],
+					"presets::icon_gaus_y" : [ 0.087 ],
+					"presets::icon_pos_x" : [ 0.0 ],
+					"presets::icon_pos_y" : [ -0.729 ],
+					"presets::icon_proportion" : [ 1.0 ],
+					"presets::icon_separation" : [ 0.37 ],
+					"presets::icon_size" : [ 0.119 ],
+					"presets::icons_number" : [ 5 ],
+					"presets::loading_delay" : [ 1.0 ],
+					"presets::loading_size" : [ 0.282 ],
+					"presets::loading_time" : [ 5.0 ],
+					"presets::loading_width" : [ 54.0 ],
+					"presets::loading_width[1]" : [ 0.0 ],
+					"presets::max_thresh" : [ 1.0 ],
+					"presets::mean" : [ 4 ],
+					"presets::min_thresh" : [ 0.01 ],
+					"presets::sXY" : [ 1.0 ],
+					"presets::sXY[1]" : [ 0.94 ],
+					"presets::scale_from" : [ 0.005 ],
+					"presets::scale_to" : [ 0.1 ],
+					"presets::showTime" : [ 6.0 ],
+					"presets::show_framerate" : [ 0 ],
+					"presets::show_pointer" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

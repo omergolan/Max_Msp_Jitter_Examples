@@ -1,0 +1,63 @@
+{
+	"pattrstorage" : 	{
+		"name" : "effectr-presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Objects_Path" : [ "C:/Users/wswi/Desktop/PROGRAM/MAX/GIT/my_Git/search paths/a_folder_somewhere/" ],
+					"my-slider" : [ 0.567537 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"Objects_Path" : [ "C:/Users/wswi/Desktop/PROGRAM/MAX/GIT/my_Git/search paths/a_folder_somewhere/" ],
+					"my-slider" : [ 0.181612 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"Objects_Path" : [ "C:/Users/wswi/Desktop/PROGRAM/MAX/GIT/my_Git/search paths/a_folder_somewhere/" ],
+					"my-slider" : [ 0.77185 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"Objects_Path" : [ "C:/Users/wswi/Desktop/PROGRAM/MAX/GIT/my_Git/search paths/a_folder_somewhere/" ],
+					"my-slider" : [ 0.079455 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"Objects_Path" : [ "C:/Users/wswi/Desktop/PROGRAM/MAX/GIT/my_Git/search paths/a_folder_somewhere/" ],
+					"my-slider" : [ 0.192963 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"Objects_Path" : [ "C:/Users/wswi/Desktop/PROGRAM/MAX/GIT/my_Git/search paths/a_folder_somewhere/" ],
+					"my-slider" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
